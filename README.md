@@ -2,4 +2,4 @@
  
 This repository contain the codes to setup webhook between Opal Deviant on Trading view and some brokers.
 
-[Deviant - byBit link](TV_deviant_heroku_bybit)
+[Deviant - byBit](TV_deviant_heroku_bybit)
